@@ -22,7 +22,7 @@ PROXY_SOURCES = [
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
 ]
 
-BLOG_URL = "https://ammuse12345.blogspot.com"
+BLOG_URL = "https://amarko1234.blogspot.com"
 
 # ✅ اختبار البروكسي مع التحقق من وجود مقالات فعلية + تجربة فتح مقالة مباشرة
 def is_proxy_working(proxy, timeout=8):
