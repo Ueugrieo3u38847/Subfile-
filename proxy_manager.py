@@ -113,7 +113,7 @@ def get_required_proxies(required_count=50, max_attempts=10):
 
 def quick_check(proxy, timeout=5):
     try:
-        response = requests.get("https://ammuse12345.blogspot.com", proxies={
+        response = requests.get("https://amarko1234.blogspot.com", proxies={
             "http": f"http://{proxy}",
             "https": f"http://{proxy}"
         }, timeout=timeout)
